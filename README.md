@@ -5,9 +5,11 @@
 To make your VS Code work with Powerline fonts: 
 1- download proper patched font - [Foked Here](https://github.com/abertsch/Menlo-for-Powerline).   
 2- In your User Settings (Code | Preferences | Settings) add this:  
-``` {
+```   
+{
 "terminal.integrated.fontFamily": "Menlo for Powerline",
-}
+}   
+
 ```
 
 And  your prompt in Code now looks right!  
