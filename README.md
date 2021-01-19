@@ -3,17 +3,19 @@
 
 
 To make your VS Code work with Powerline fonts: 
-1- download proper patched font - [Foked Here](https://github.com/abertsch/Menlo-for-Powerline)
-2- In your User Settings (Code | Preferences | Settings) add this:
-{
+1- download proper patched font - [Foked Here](https://github.com/abertsch/Menlo-for-Powerline).   
+2- In your User Settings (Code | Preferences | Settings) add this:  
+``` {
 "terminal.integrated.fontFamily": "Menlo for Powerline",
 }
-And  your prompt in Code now looks right!
+```
 
-*Note*  this is for my own use only, and the credits go to the post here: *(with my thanks!)*
+And  your prompt in Code now looks right!  
+
+*Note*  this is for my own use only, and the credits go to the post here: *(with my thanks!)*   
 https://dev.to/mattstratton/making-powerline-work-in-visual-studio-code-terminal-1m7
 
-(Yes, the colors look different than the previous screenshot; since taking those screenshots I changed from using the powerlevel9k oh-my-zsh theme to instead use powerline-go.)
+
 
 Menlo for Powerline
 ===================
